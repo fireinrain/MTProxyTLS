@@ -3,10 +3,10 @@
 
 ## MTProxy-go 一键脚本
 ```
-bash <(curl -sSL https://raw.githubusercontent.com/elesssss/MTProxy/main/mtproxy.sh)
+bash <(curl -sSL https://raw.githubusercontent.com/fireinrain/MTProxyTLS/main/mtproxy.sh)
 ```
 
 ## MTProxy-python 一键脚本
 ```
-bash <(curl -sSL https://raw.githubusercontent.com/elesssss/MTProxy/main/Python/mtproxy.sh)
+bash <(curl -sSL https://raw.githubusercontent.com/fireinrain/MTProxyTLS/main/Python/mtproxy.sh)
 ```
